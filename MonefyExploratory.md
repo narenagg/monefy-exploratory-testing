@@ -1,10 +1,10 @@
-#Test plan for Monefy app (Android)
+# Test plan for Monefy app (Android)
 
 **Object of testing:** Monefy application for money management.
 
 **Device:** Samsung(Android)
 
-###Identified Test Charters:
+### Identified Test Charters:
 
 1. Select Day -> Adding Expenses and Deposits in Multiple Iterations and check Balance -Perform this activity for some past days as well as future days.: Ensure Balance is showing correctly (30m) (P1)
 2. Select Week -> Adding Expenses and Deposits in Multiple Iterations and check Balance -Perform this activity for some past weeks as well as future weeks.: Ensure Balance is showing correctly (25m) (P1)
